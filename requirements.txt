@@ -1,0 +1,8 @@
+transformers
+peft
+accelerate
+safetensors
+sentencepiece
+gradio
+torchvision
+minlora @ git+https://github.com/changjonathanc/minLoRA.git

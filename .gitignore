@@ -1,0 +1,41 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# LoRA adapter files (safetensors)
+*.safetensors
+
+# PyTorch checkpoints
+*.pt
+*.pth
+*.bin
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
